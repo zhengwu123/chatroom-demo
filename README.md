@@ -6,7 +6,8 @@ created login system with Parse
 3.use a timer to refresh messages every 3.4 seconds.
 
 
-Author: 
+Author:
+
 Zheng wu
 
 Wentai Cui
