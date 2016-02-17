@@ -7,8 +7,8 @@ created login system with Parse
 
 
 Author: 
-
 Zheng wu
+
 Wentai Cui
 
 
